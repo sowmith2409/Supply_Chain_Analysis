@@ -10,8 +10,8 @@ and better understand customer behavior through interactive Tableau dashboards.
 - Assess Supply Chain Efficiency
 - Understand Customer Demographics.
 ## Tools Used :
-- **Data Preparation:** Excel is used to clean and prepare the dataset.
-- **Visualization:** Tableau creates interactive dashboards and tells a story with the data.
+- **Data Preparation:** Excel for cleaning and preparing the dataset.
+- **Visualization:** Tableau for creating interactive dashboards and telling a story with the data.
 ## Key insights:
 - **Product Performance Dashboard:** Skin care products lead in both product sales and revenue,
 with mid-range prices proving to be the most successful, offering the best balance between affordability and profitability.
