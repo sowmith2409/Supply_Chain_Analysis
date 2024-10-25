@@ -22,11 +22,7 @@ with mid-range prices proving to be the most successful, offering the best balan
  come next in importance.
 ## Actionable Insights:
 - Fix data gaps in the "Unknown" category and target marketing efforts on the Female group, which makes up 21.36% of revenue.
-- Actionable insight is to focus on leveraging the strong customer demand and high revenue from skin care products for strategic business efforts.
-- Additionally, addressing and improving the incomplete or misclassified customer data in
- the "Unknown" category can enable a more comprehensive understanding of the customer base.
+- Expand the Skin Care line in mid-range segments to maximize strong demand and revenue, and improve targeted marketing with accurate customer data.
+- Prioritize smaller orders with Supplier 3 for faster fulfillment and lower defect rates, while negotiating better shipping rates with Carrier B and focusing on quality improvements with Supplier 2.
 ## Conclusion:
-- Prioritize smaller orders with Supplier 3 for faster fulfillment and lower defect rates,
-while negotiating better shipping rates with Carrier B and focusing on quality improvements with Supplier 2.
-Expand the Skin Care line in mid-range segments to maximize strong demand and revenue, and improve targeted marketing with accurate customer data.
-
+- Actionable insight is to focus on leveraging the strong customer demand and high revenue from skin care products for strategic business efforts. Additionally, addressing and improving the incomplete or misclassified customer data in the "Unknown" category can enable a more comprehensive understanding of the customer base.
