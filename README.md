@@ -20,7 +20,7 @@ with mid-range prices proving to be the most successful, offering the best balan
 - **Customer Demographics Dashboard:**  The "Unknown" category, with the highest number of products sold and revenue,
  suggests missing or improperly categorized customer data. Despite this, female customers, with lower revenue but identifiable demographics,
  come next in importance.
-- **Actionable Insights:**
+## Actionable Insights:
 - Fix data gaps in the "Unknown" category and target marketing efforts on the Female group, which makes up 21.36% of revenue.
 - Actionable insight is to focus on leveraging the strong customer demand and high revenue from skin care products for strategic business efforts.
 - Additionally, addressing and improving the incomplete or misclassified customer data in
